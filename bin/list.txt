@@ -1,1 +1,2 @@
+soljson-v0.4.25.js
 soljson-v0.4.24.js

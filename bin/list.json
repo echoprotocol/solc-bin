@@ -8,10 +8,20 @@
       "urls": [
         "bzzr://8c9960d7823f62f9126b561ba69df37f3c668d0fca500d37c8c4f1d6694a37a2"
       ]
+    },
+    {
+      "path": "soljson-v0.4.25.js",
+      "version": "0.4.25",
+      "longVersion": "0.4.25",
+      "keccak256": "0xb6789918b8a309fba4fe9631d686b779506c41a1c325ac3f3274518f8a094796",
+      "urls": [
+        "bzzr://2d736798632cf6bfbe288133a9866920846103b05413b0c676c81459ba5c9da8"
+      ]
     }
   ],
   "releases": {
+    "0.4.25": "soljson-v0.4.25.js",
     "0.4.24": "soljson-v0.4.24.js"
   },
-  "latestRelease": "0.4.24"
+  "latestRelease": "0.4.25"
 }
