@@ -17,11 +17,21 @@
       "urls": [
         "bzzr://2d736798632cf6bfbe288133a9866920846103b05413b0c676c81459ba5c9da8"
       ]
+    },
+    {
+      "path": "soljson-v0.4.26.js",
+      "version": "0.4.26",
+      "longVersion": "0.4.26",
+      "keccak256": "0xaf3ffb6e86971791fc98662558d16c6b9df750313932ccc245c89a080ffae91c",
+      "urls": [
+        "bzzr://0edce9cefef667868a9cdbed77f364bdf55e7002217bd97e303d5929766f10a5"
+      ]
     }
   ],
   "releases": {
+    "0.4.26": "soljson-v0.4.26.js",
     "0.4.25": "soljson-v0.4.25.js",
     "0.4.24": "soljson-v0.4.24.js"
   },
-  "latestRelease": "0.4.25"
+  "latestRelease": "0.4.26"
 }
