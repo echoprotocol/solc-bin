@@ -1,0 +1,17 @@
+{
+  "builds": [
+    {
+      "path": "soljson-v0.4.24.js",
+      "version": "0.4.24",
+      "longVersion": "0.4.24",
+      "keccak256": "0x20771418dccb4dc27b5c22fdacf60a9e04dbc7b00e306a112c42e4278d630c8e",
+      "urls": [
+        "bzzr://8c9960d7823f62f9126b561ba69df37f3c668d0fca500d37c8c4f1d6694a37a2"
+      ]
+    }
+  ],
+  "releases": {
+    "0.4.24": "soljson-v0.4.24.js"
+  },
+  "latestRelease": "0.4.24"
+}
