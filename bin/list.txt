@@ -1,3 +1,4 @@
+soljson-v0.5.5.js
 soljson-v0.5.4.js
 soljson-v0.5.3.js
 soljson-v0.5.2.js
